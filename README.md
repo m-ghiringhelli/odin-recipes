@@ -1,4 +1,4 @@
 
 # RECIPE BOOK
 
-This project is an attempt to create an online recipe book using HTML.
+This is an online recipe book of the weird recipes I've crafted through my life and consumed far too much of. It is as much a lamentation as an attestation.
