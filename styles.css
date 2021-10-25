@@ -1,0 +1,13 @@
+* {
+  border: 0px solid black;
+  color: hsl(50, 59%, 30%);
+  font-family: Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgb(180, 216, 233);
+}
+
+h1 {
+  text-align: center;
+}
